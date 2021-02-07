@@ -1,0 +1,21 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"http://45.77.27.128/yuki/countdown5.mp3"},
+    "11":{"url":"http://45.77.27.128/yuki/hule_fan_out.mp3"},
+    "25":{"url":"http://45.77.27.128/yuki/act_pon.mp3"},
+    "26":{"url":"http://45.77.27.128/yuki/act_pon.mp3"},
+    "27":{"url":"http://45.77.27.128/yuki/act_kan.mp3"},
+    "28":{"url":"http://45.77.27.128/yuki/act_kan.mp3"},
+    "29":{"url":"http://45.77.27.128/yuki/act_chi.mp3"},
+    "30":{"url":"http://45.77.27.128/yuki/act_chi.mp3"},
+    "31":{"url":"http://45.77.27.128/yuki/act_riich.mp3"},
+    "32":{"url":"http://45.77.27.128/yuki/act_riich.mp3"},
+    "33":{"url":"http://45.77.27.128/yuki/act_ron.mp3"},
+    "34":{"url":"http://45.77.27.128/yuki/act_ron.mp3"},
+    "35":{"url":"http://45.77.27.128/yuki/act_tumo.mp3"},
+    "36":{"url":"http://45.77.27.128/yuki/act_tumo.mp3"},
+    "40":{"url":"http://45.77.27.128/yuki/winlose.mp3"},
+    "41":{"url":"http://45.77.27.128/yuki/yakuman.mp3"}
+  }
+}
